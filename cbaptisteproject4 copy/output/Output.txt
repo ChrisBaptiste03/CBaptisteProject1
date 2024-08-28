@@ -1,0 +1,11 @@
+********************
+GOLFER REPORT
+********************
+
+Number of golfers processed: 3
+Number of scores processed: 5
+
+========================================
+Player: John Average Score: 78.33
+Player: Max Average Score: 87.75
+Player: Ben Average Score: 68.50
